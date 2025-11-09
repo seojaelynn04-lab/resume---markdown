@@ -3,18 +3,21 @@
 **전공** : 사이버보안학과</br>
 **E-mail** : seojaelynn04@google.com </br>
 **Phone** : 010-2554-8704 </br>
-**Git-hub** : (내가 채워넣어야 할 부분)
+**Git-hub** : 
+
+<hr>
 
 ### 보유 기술 (Skills) 
 
-<h4> Programming Languages </h4>
-<p align="left"> 
+<p align="left"> <!--뱃지 달기를 위해 ai 도움 받음--> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
+
+#### Programming Languages
 
 <table>
   <tr>
@@ -39,7 +42,7 @@
   </tr>
 </table>
 
-<h4> Markup Languages </h4>
+#### Markup Languages 
 <table>
   <tr>
     <th>언어</th>
@@ -52,7 +55,7 @@
   </tr>
 </table>
 
-<h4> Operating Systems </h4>
+#### Operating Systems 
 <table>
   <tr>
     <th>시스템</th>
@@ -65,7 +68,7 @@
   </tr>
 </table>
 
-<h3>Database</h3>
+#### Database
 <table>
   <tr>
     <th>시스템</th>
@@ -77,6 +80,8 @@
     <td>⚫️⚫️⚫️⚪️⚪️</td>
   </tr>
 </table>
+
+<hr>
 
 ### 프로젝트 (Projects)
 
@@ -101,7 +106,7 @@
       * JavaScript, CSS 활용 <br>
     </td>
     <td align="center">
-      <a href="[깃허브-저장소-URL]">GitHub</a>
+      <a href="[깃허브-저장소-URL]">GitHub</a> <!--링크 연결을 위해 ai 및 구글링 도-->
     </td>
   </tr>
 
@@ -124,7 +129,9 @@
   </tr>
 </table>
 
-<h4> 대외활동 (Activities) </h4>
+<hr>
+
+### 대외활동 (Activities)
 
 <table>
   <tr>
