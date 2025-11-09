@@ -102,8 +102,8 @@
       * KOBIS 영화관 API 활용한 주간/주말 영화 순위 및 영화 정보 제공<br>
     </td>
     <td>
-      * 공연, 도서, 영화 관련 정보 한 페이지에서 제공<br>
-      * JavaScript, CSS 활용 <br>
+      • 공연, 도서, 영화 관련 정보 한 페이지에서 제공<br>
+      • JavaScript, CSS 활용 <br>
     </td>
     <td align="center">
       <a href="https://github.com/seojaelynn04-lab/HTML-Group_Project">GitHub</a> <!--링크 연결을 위해 ai 및 구글링 도움-->
@@ -112,19 +112,19 @@
 
   <tr>
     <td>
-      <strong>[두 번째 프로젝트명]</strong><br>
-      <small>(진행 기간 / 투입 인원)</small>
+      <strong>[Python 날씨 및 할 일 목록 만들기]</strong><br>
+      <small>(2023-2학기 / 5명)</small>
     </td>
     <td>
-      * [수행한 핵심 역할 1]<br>
-      * [수행한 핵심 역할 2]
+      * 사용자의 경로를 파악 및 해당 지역의 날씨 제공<br>
+      * 날짜별 할 일 목록 제공 및 체크리스트 제작
     </td>
     <td>
-      * [성과 1]<br>
-      * [성과 2]
+      • 도시 어디에서든 날씨 정보를 제공 <br>
+      • 해야 할 업무에 대한 체계적 분석 기능 제공 <br>
     </td>
     <td align="center">
-      <a href="[깃허브저장소URL]">GitHub</a>
+      <a href="https://github.com/seojaelynn04-lab/-api-team_project/tree/main">GitHub</a>
     </td>
   </tr>
 </table>
@@ -147,8 +147,8 @@
       <strong>[단국대학교] 사이버보안학과 학생회 (부회장)</strong>
     </td>
     <td>
-      + 학생회 총괄 운영 및 대표 역할 수행<br>
-      + 신입생 오리엔테이션 총괄 기획 및 인솔
+      • 학생회 총괄 운영 및 대표 역할 수행<br>
+      • 신입생 오리엔테이션 총괄 기획 및 인솔
     </td>
   </tr>
   
@@ -160,9 +160,9 @@
       <strong>[단국대학교] 사이버보안학과 학생회 (사무부 부장)</strong>
     </td>
     <td>
-      + 사무부 팀원(1명) 관리 및 업무 총괄<br>
-      + 학과 내 모든 축제 관련 예산안 계획 및 작성
-      + 신입생 인솔
+      • 사무부 팀원(1명) 관리 및 업무 총괄<br>
+      • 학과 내 모든 축제 관련 예산안 계획 및 작성
+      • 신입생 인솔
     </td>
   </tr>
 
@@ -194,9 +194,8 @@
       <strong>교내 근로 장학생</strong>
     </td>
     <td>
-      + [교수학습개발센터] 사무실 행정 보조 <br>
-      + 학업 관련 문의 및 전화 응대
-      + 
+      • [교수학습개발센터] 사무실 행정 보조 <br>
+      • 학업 관련 문의 및 전화 응대
     </td>
   </tr>
   <tr>
