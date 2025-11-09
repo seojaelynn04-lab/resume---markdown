@@ -2,7 +2,7 @@
 
 <img src ="https://github.com/seojaelynn04-lab/resume-profile-test/blob/main/%ED%94%84%EB%A1%9C%ED%95%84.jpg" width="150" alt="도전을 두려워하지 않는 서재린입니다." align="left">
 
-### 기본 학적 🎓 (Profile) <!--Notion 에서 이모지 복사--> 
+### 기본 학적 👤 (Profile) <!--Notion 에서 이모지 복사--> 
 **생년월일** : 2004. 01. 28 </br>
 **전공** : 사이버보안학과</br>
 **E-mail** : seojaelynn04@google.com </br>
@@ -135,7 +135,7 @@
 
 <hr>
 
-### 대외활동 🙋‍♂️ (Activities) <!--Notion 에서 이모지 복사--> 
+### 대외활동 🎓 (Activities) <!--Notion 에서 이모지 복사--> 
 
 <table>
   <tr>
@@ -215,3 +215,8 @@
     </td>
   </tr>
 </table>
+
+<hr>
+
+### 자기소개 🙋‍♂️ (Introduction) <!--Notion 에서 이모지 복사--> 
+가독성 있도록 ul 과 태그 사용하기 
