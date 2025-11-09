@@ -31,18 +31,18 @@
   
   <tr>
     <td>Python</td>
-    <td>⚫️⚫️⚫️⚫️⚪️</td>
+    <td>🔵🔵🔵🔵⚪️</td>
   </tr>
   
   <tr>
     <td>Java</td>
-    <td>⚫️⚫️⚫️⚪️⚪️</td>
+    <td>🔵🔵🔵⚪️⚪️</td>
     
   </tr>
   
   <tr>
     <td>C++</td>
-    <td>⚫️⚫️⚫️⚫️⚪️</td>
+    <td>🔵🔵🔵🔵⚪️</td>
   </tr>
 </table>
 
@@ -55,7 +55,7 @@
   
   <tr>
     <td>HTML</td>
-    <td>⚫️⚫️⚫️⚫️⚪️</td>
+    <td>🔵🔵🔵🔵⚪️</td>
   </tr>
 </table>
 
@@ -68,7 +68,7 @@
   
   <tr>
     <td>Linux</td>
-    <td>⚫️⚫️⚫️⚫️⚪️</td>
+    <td>🔵🔵🔵🔵⚪️</td>
   </tr>
 </table>
 
@@ -81,7 +81,7 @@
   
   <tr>
     <td>MySQL</td>
-    <td>⚫️⚫️⚫️⚪️⚪️</td>
+    <td>🔵🔵🔵⚪️⚪️</td>
   </tr>
 </table>
 
