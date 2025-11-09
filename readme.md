@@ -3,11 +3,19 @@
 **전공** : 사이버보안학과</br>
 **E-mail** : seojaelynn04@google.com </br>
 **Phone** : 010-2554-8704 </br>
-**Git-hub** : </br>
+**Git-hub** : (내가 채워넣어야 할 부분)
 
 ### 보유 기술 (Skills) 
 
 <h4> Programming Languages </h4>
+<p align="left"> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
 <table>
   <tr>
     <th>언어</th>
@@ -17,12 +25,12 @@
   <tr>
     <td>Python</td>
     <td>⚫️⚫️⚫️⚫️⚪️</td>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   </tr>
   
   <tr>
     <td>Java</td>
-    <td>⚫️⚫️⚪️⚪️⚪️</td>
+    <td>⚫️⚫️⚫️⚪️⚪️</td>
+    
   </tr>
   
   <tr>
