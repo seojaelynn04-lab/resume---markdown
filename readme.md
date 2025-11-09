@@ -3,7 +3,7 @@
 **전공** : 사이버보안학과</br>
 **E-mail** : seojaelynn04@google.com </br>
 **Phone** : 010-2554-8704 </br>
-**Git-hub** : 
+**Git-hub** : [seojaelynn04-lab] https://github.com/seojaelynn04-lab </br>
 
 <hr>
 
@@ -106,7 +106,7 @@
       * JavaScript, CSS 활용 <br>
     </td>
     <td align="center">
-      <a href="[깃허브-저장소-URL]">GitHub</a> <!--링크 연결을 위해 ai 및 구글링 도-->
+      <a href="https://github.com/seojaelynn04-lab/HTML-Group_Project">GitHub</a> <!--링크 연결을 위해 ai 및 구글링 도움-->
     </td>
   </tr>
 
@@ -124,7 +124,7 @@
       * [성과 2]
     </td>
     <td align="center">
-      <a href="[깃허브-저장소-URL]">GitHub</a>
+      <a href="[깃허브저장소URL]">GitHub</a>
     </td>
   </tr>
 </table>
