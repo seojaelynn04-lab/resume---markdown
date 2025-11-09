@@ -1,13 +1,17 @@
 # 서재린
+
+<img src ="https://github.com/seojaelynn04-lab/resume-profile-test/blob/main/%ED%94%84%EB%A1%9C%ED%95%84.jpg" width="300" alt="도전을 두려워하지 않는 서재린입니다." align="right">
+
+### 기본 학적 🎓 (Profile) <!--Notion 에서 이모지 복사--> 
 **생년월일** : 2004. 01. 28 </br>
 **전공** : 사이버보안학과</br>
 **E-mail** : seojaelynn04@google.com </br>
 **Phone** : 010-2554-8704 </br>
 **Git-hub** : [seojaelynn04-lab] https://github.com/seojaelynn04-lab </br>
-
+  
 <hr>
 
-### 보유 기술 (Skills) 
+### 보유 기술 💻 (Skills)  <!--Notion 에서 이모지 복사--> 
 
 <p align="left"> <!--뱃지 달기를 위해 ai 도움 받음--> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -83,7 +87,7 @@
 
 <hr>
 
-### 프로젝트 (Projects)
+### 프로젝트 🏅 (Projects) <!--Notion 에서 이모지 복사--> 
 
 <table>
   <tr>
@@ -112,7 +116,7 @@
 
   <tr>
     <td>
-      <strong>[Python 날씨 및 할 일 목록 만들기]</strong><br>
+      <strong>Python 날씨 및 할 일 목록 만들기</strong><br>
       <small>(2023-2학기 / 5명)</small>
     </td>
     <td>
@@ -131,7 +135,7 @@
 
 <hr>
 
-### 대외활동 (Activities)
+### 대외활동 🙋‍♂️ (Activities) <!--Notion 에서 이모지 복사--> 
 
 <table>
   <tr>
@@ -211,4 +215,3 @@
     </td>
   </tr>
 </table>
-
