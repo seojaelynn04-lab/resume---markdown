@@ -1,6 +1,6 @@
 # 서재린
 
-<img src ="https://github.com/seojaelynn04-lab/resume-profile-test/blob/main/%ED%94%84%EB%A1%9C%ED%95%84.jpg" width="300" alt="도전을 두려워하지 않는 서재린입니다." align="right">
+<img src ="https://github.com/seojaelynn04-lab/resume-profile-test/blob/main/%ED%94%84%EB%A1%9C%ED%95%84.jpg" width="150" alt="도전을 두려워하지 않는 서재린입니다." align="left">
 
 ### 기본 학적 🎓 (Profile) <!--Notion 에서 이모지 복사--> 
 **생년월일** : 2004. 01. 28 </br>
