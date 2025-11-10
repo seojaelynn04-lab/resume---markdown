@@ -13,7 +13,7 @@
 
 ### 보유 기술 💻 (Skills)  <!--Notion 에서 이모지 복사--> 
 
-<p align="left"> <!--뱃지 달기를 위해 ai 도움 받음--> 
+<p align="left"> <!--뱃지 달기를 위해 ai 도움 및 무료 이미지 오픈소스 활용용--> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
@@ -38,7 +38,6 @@
   <tr>
     <td>Java</td>
     <td>🔵🔵🔵⚪️⚪️</td>
-    
   </tr>
   
   <tr>
@@ -97,6 +96,25 @@
     <th>주요 성과</th>
     <th>링크</th>
   </tr>
+  
+  <tr>
+    <td>
+      <strong>랜섬웨어 공격을 막는 Entropy&Malice_score 방어기법 구현</strong> <br>
+      <small>(2025-2학기 / 3명)</small>
+    </td>
+    <td>
+      * Entropy 계산 후 임계치에 따라 악성코드 판정 <br>
+      * Entropy 기반으로 Malice_score 계산 후 악성코드 판정 <br>
+    </td>
+    <td>
+      • fuse 환경에서 랜섬웨어의 공격시 상황 판단하고 침입하지 못하게 가드 설치 <br>
+      • 부분 암호화를 통한 파일 훼손 방지 <br>
+    </td>
+    <td align="center">
+      <a href="https://github.com/system-security-0x/ransonware-battle/blob/main/test/test_result/blue2.c">GitHub</a> 
+    </td>
+  </tr>
+
   <tr>
     <td>
       <strong>API 활용한 문화생활 정보제공 웹 개발</strong> <br>
@@ -111,13 +129,13 @@
       • JavaScript, CSS 활용 <br>
     </td>
     <td align="center">
-      <a href="https://github.com/seojaelynn04-lab/HTML-Group_Project">GitHub</a> <!--링크 연결을 위해 ai 및 구글링 도움-->
+      <a href="https://github.com/seojaelynn04-lab/HTML-Group_Project">GitHub</a> 
     </td>
   </tr>
 
   <tr>
     <td>
-      <strong>Python 날씨 및 할 일 목록 개발발</strong> <br>
+      <strong>Python 날씨 및 할 일 목록 개발</strong> <br>
       <small>(2023-2학기 / 5명)</small>
     </td>
     <td>
@@ -191,6 +209,7 @@
     <th>기관/회사명</th>
     <th>담당 업무</th>
   </tr>
+  
   <tr>
     <td>
       <strong>[2025.03 ~ 2025.08]</strong>
@@ -203,6 +222,7 @@
       • 학업 관련 문의 및 전화 응대
     </td>
   </tr>
+  
   <tr>
     <td>
       <strong>[2024.08 ~ 2024.12]</strong>
