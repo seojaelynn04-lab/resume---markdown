@@ -103,7 +103,7 @@
       <small>(2025-2학기 / 3명)</small>
     </td>
     <td>
-      * Entropy 계산 후 임계치에 따라 악성코드 판정 <br>
+      * Entropy 계산 후 임계치 및 가중치 부가 <br>
       * Entropy 기반으로 Malice_score 계산 후 악성코드 판정 <br>
     </td>
     <td>
