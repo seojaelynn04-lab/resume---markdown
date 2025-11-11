@@ -100,7 +100,7 @@
   <tr>
     <td>
       <strong>랜섬웨어 공격을 막는 Entropy&Malice_score 방어기법 구현</strong> <br>
-      <small>(2025-2학기 / 3명 / C++)</small>
+      <small>(2025-2학기 / 3명 / <code>C++</code>)</small>
     </td>
     <td>
       * Entropy 계산 후 임계치 및 가중치 부가 <br>
@@ -118,7 +118,7 @@
   <tr>
     <td>
       <strong>API 활용한 문화생활 정보제공 웹 개발</strong> <br>
-      <small>(2024-1학기 / 2명 / HTML,CSS,JavaScript)</small>
+      <small>(2024-1학기 / 2명 / <code>HTML,CSS,JavaScript</code>)</small>
     </td>
     <td>
       * 네이버지도 API 활용한 지도 제공 <br>
@@ -136,7 +136,7 @@
   <tr>
     <td>
       <strong>Python 날씨 및 할 일 목록 개발</strong> <br>
-      <small>(2023-2학기 / 5명 / 파이썬)</small>
+      <small>(2023-2학기 / 5명 / <code>파이썬</code>)</small>
     </td>
     <td>
       * 사용자의 경로를 파악 및 해당 지역의 날씨 제공<br>
