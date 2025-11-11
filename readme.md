@@ -2,7 +2,7 @@
 
 <img src ="https://github.com/seojaelynn04-lab/resume-profile-test/blob/main/%ED%94%84%EB%A1%9C%ED%95%84.jpg" width="150" alt="도전을 두려워하지 않는 서재린입니다." align="left">
 
-### 기본 학적 👤 (Profile) <!--Notion 에서 이모지 복사--> 
+### 기본 학적 (Profile) 
 **생년월일** : 2004. 01. 28  </br>
 **전공** : 사이버보안학과 </br>
 **E-mail** : seojaelynn04@google.com </br>
@@ -11,7 +11,7 @@
   
 <hr>
 
-### 보유 기술 💻 (Skills)  <!--Notion 에서 이모지 복사--> 
+### 보유 기술 (Skills)  
 
 <p align="left"> <!--뱃지 달기를 위해 ai 도움 및 무료 이미지 오픈소스 활용용--> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -87,7 +87,7 @@
 
 <hr>
 
-### 프로젝트 🏅 (Projects) <!--Notion 에서 이모지 복사--> 
+### 프로젝트 (Projects) 
 
 <table>
   <tr>
@@ -147,7 +147,7 @@
 
 <hr>
 
-### 대외활동 🎓 (Activities) <!--Notion 에서 이모지 복사--> 
+### 대외활동 (Activities) 
 
 <table>
   <tr>
@@ -233,7 +233,7 @@
 
 <hr>
 
-### 자기소개 🙋‍♂️ (Introduction) <!--Notion 에서 이모지 복사--> 
+### 자기소개 (Introduction) 
 <p>사용자의 편의성을 가장 먼저 생각하는 웹 개발자 서재린입니다. 저에게 있어 편의성이란 단순히 보기 좋게 꾸미는 것이 아니라, <strong>"보이지 않는 설계의 견고함"</strong>을 의미합니다. 사이버보안학과를 전공하며 <em>보안이 강화된 시스템 구조</em>의 중요성을 배웠습니다. 이를 바탕으로 <code>Linux</code>환경과 <code>Python</code> 을 활용해 내부적으로도 안전하고 신뢰할 수 있는 API 를 제작하는 것을 기본으로 삼고 있습니다. </p>
 
 <ul>
