@@ -92,7 +92,6 @@
 <table>
   <tr>
     <th>프로젝트명</th>
-    <th>담당 역할</th>
     <th>주요 성과</th>
     <th>링크</th>
   </tr>
@@ -104,11 +103,9 @@
     </td>
     <td>
       * Entropy 계산 후 임계치 및 가중치 부가 <br>
-      * Entropy 기반으로 Malice_score 계산 후 악성코드 판정 <br>
-    </td>
-    <td>
-      • fuse 환경에서 랜섬웨어의 공격시 상황 판단하고 침입하지 못하게 가드 설치 <br>
-      • 부분 암호화를 통한 파일 훼손 방지 <br>
+      • Entropy 기반으로 Malice_score 계산 후 악성코드 판정 <br>
+      * fuse 환경에서 랜섬웨어의 공격시 상황 판단하고 침입하지 못하게 가드 설치 <br>
+      • 부분 암호화를 통한 파일 훼손 방지
     </td>
     <td align="center">
       <a href="https://github.com/system-security-0x/ransonware-battle/blob/main/test/test_result/blue2.c">GitHub</a> 
@@ -122,11 +119,9 @@
     </td>
     <td>
       * 네이버지도 API 활용한 지도 제공 <br>
-      * KOBIS 영화관 API 활용한 주간/주말 영화 순위 및 영화 정보 제공 <br>
-    </td>
-    <td>
-      • 공연, 도서, 영화 관련 정보 한 페이지에서 제공 <br>
-      • 문화생활 정보를 바탕으로한 추천 기능 제공 <br>
+      • KOBIS 영화관 API 활용한 주간/주말 영화 순위 및 영화 정보 제공 <br>
+      * 공연, 도서, 영화 관련 정보 한 페이지에서 제공 <br>
+      • 문화생활 정보를 바탕으로한 추천 기능 제공 
     </td>
     <td align="center">
       <a href="https://github.com/seojaelynn04-lab/HTML-Group_Project">GitHub</a> 
@@ -139,12 +134,10 @@
       <small>(2023-2학기 / 5명 / <code>파이썬</code>)</small>
     </td>
     <td>
-      * 사용자의 경로를 파악 및 해당 지역의 날씨 제공<br>
-      * 날짜별 할 일 목록 제공 및 체크리스트 제작
-    </td>
-    <td>
-      • 도시 어디에서든 날씨 정보를 제공 <br>
-      • 해야 할 업무에 대한 체계적 분석 기능 제공 <br>
+      * 사용자의 경로를 파악 및 해당 지역의 날씨 제공 <br>
+      • 날짜별 할 일 목록 제공 및 체크리스트 제작 <br>
+      * 도시 어디에서든 날씨 정보를 제공 <br>
+      • 해야 할 업무에 대한 체계적 분석 기능 제공 
     </td>
     <td align="center">
       <a href="https://github.com/seojaelynn04-lab/-api-team_project/tree/main">GitHub</a>
@@ -171,7 +164,7 @@
       <strong>[단국대학교] 사이버보안학과 학생회 (부회장)</strong>
     </td>
     <td>
-      • 학생회 총괄 운영 및 대표 역할 수행<br>
+      • 학생회 총괄 운영 및 대표 역할 수행 <br>
       • 신입생 오리엔테이션 총괄 기획 및 인솔
     </td>
   </tr>
@@ -184,8 +177,8 @@
       <strong>[단국대학교] 사이버보안학과 학생회 (사무부 부장)</strong>
     </td>
     <td>
-      • 사무부 팀원(1명) 관리 및 업무 총괄<br>
-      • 학과 내 모든 축제 관련 예산안 계획 및 작성
+      • 사무부 팀원(1명) 관리 및 업무 총괄 <br>
+      • 학과 내 모든 축제 관련 예산안 계획 및 작성 <br>
       • 신입생 인솔
     </td>
   </tr>
